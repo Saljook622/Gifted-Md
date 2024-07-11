@@ -1,9 +1,9 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "name": "DARK MAJID-md@v5.0.0",
+  "description": "I am MAJID KHAN-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "logo": "https://photos.app.goo.gl/KVx1u2QbDq2DHC466",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "success_url": "/",
   "stack": "heroku-24",
@@ -14,12 +14,12 @@
       "value": "private"
     },
      "OWNER_NAME": {
-      "description": "Put the name of Bot Owner",
+      "description": "MAJID KHAN",
       "required": false,
       "value": "GIFTED TECH"
     },
     "OWNER_NUMBER": {
-      "description": "Put Bot Owner Numbers",
+      "description": "03000677729",
       "required": false,
       "value": "254110853827"
     },
@@ -30,7 +30,7 @@
     },
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "AUTO_READ_STATUS": {
